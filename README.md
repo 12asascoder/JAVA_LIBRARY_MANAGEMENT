@@ -254,8 +254,5 @@ If you encounter any issues or have questions:
 - Console-based interface for maximum compatibility
 - Designed for educational and professional use
 
----
-
-**Digital Asset Management System** - Efficiently managing digital resources for modern organizations.
-
-*Built with ❤️ using Java*
+-----
+-----
